@@ -1,7 +1,7 @@
 # JumboPay
 ## Track, Manage, and Maximize Your Loyalty Points
 JumboPay is a powerful application that helps users track all their loyalty program points from different subscriptions in one place. 
-The app offers seamless features to convert unused points into cash or cryptocurrency, ensuring users maximize the value of their rewards by either converting them to cash or crypto.
+The app offers seamless features to convert unused points into cash or cryptocurrency, ensuring users maximize the value of their rewards.
 
 ## Features
 * Centralized Loyalty Management:
